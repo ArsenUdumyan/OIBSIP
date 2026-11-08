@@ -1,0 +1,1 @@
+API_KEY = "your-openweathermap-api-key-here"
